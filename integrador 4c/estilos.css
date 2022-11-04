@@ -1,23 +1,22 @@
 body {
     background:linear-gradient(90deg,#9e0b37,#1d060d);
 }
-#cajon{
+#menu{
     padding: 10px;
     transition: .5s;
     margin: -8px;
+}
+#menu:hover {
+    background-color: #fff6ed;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-}
-#cajon:hover {
-    background-color: #fff6ed;
-    
 }
 #qatar {
     font-size: x-large;
     padding: 5px;
     border-radius: 50px;
     display: inline-block;
-    margin-right: 30px;
+    margin-right: 100px;
     transition: 0.3s;
     color: #acacac;
 }
@@ -49,7 +48,6 @@ body {
     color: black;
 }
 #o {
-    width: 108px;
     font-size: x-large;
     padding: 10px;
     border-radius: 50px;
@@ -65,4 +63,8 @@ body {
     background-color: black;
     width: 500px;
     height: 300px;
+}
+#fix{
+    text-decoration: none;
+    color: #acacac;
 }
