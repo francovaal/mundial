@@ -1,0 +1,401 @@
+body {
+    background:linear-gradient(90deg,#9e0b37,#1d060d);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+#barra {
+    width: 100%;
+    height: 450px;
+    background-color: #fff6ed;
+    padding-top: 30px;
+}
+#estadios {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+#titulo {
+    margin: 0px;
+    font-size: 1.5cm;
+    text-align: center;
+}
+#info1 {
+    padding-inline: 130px;
+    text-align: center;
+    font-size: x-large;
+}
+#e1 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/29f0eb54-ee32-4c22-a829-52ea02a6ffae/qvbxqr5uir54g7nxgsea-jpg?io=transform:fill,aspectratio:10x16&quality=100);
+    background-size: cover;
+    transition: .3s;
+}
+#e1:hover {
+    transform: scale(1.1);
+}
+#e2 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/6093aabb-245b-4174-976e-0fdf6694df74/General-Views-Of-FIFA-World-Cup-Qatar-2022-Venues?io=transform:fill,aspectratio:10x16&quality=100);
+    background-size: cover;
+    transition: .3s;
+}
+#e2:hover {
+    transform: scale(1.1);
+}
+#e3 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/7528c1de-db42-41bc-a126-34943b9a7f49/Jordan-v-Morocco-FIFA-Arab-Cup-Qatar-2021?io=transform:fill,aspectratio:10x16&quality=100);
+    background-size: cover;
+    transition: .3s;
+}
+#e3:hover {
+    transform: scale(1.1);
+}
+#e4 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/51c787c0-297c-454d-84c7-c931cd9bcc7d/FIFA-World-Cup-Qatar-2022-Venue-Aerial-Views?io=transform:fill,aspectratio:10x16&quality=100);
+    background-size: cover;
+    transition: .3s;
+}
+#e4:hover {
+    transform: scale(1.1);
+}
+#e5 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/ab4afd3b-c67c-43f7-b4a5-829799c6cfbe/cakdqx4mi9lxoadg1opg-jpg?io=transform:fill,aspectratio:10x16&quality=100);
+    background-size: cover;
+    transition: .3s;
+}
+#e5:hover {
+    transform: scale(1.1);
+}
+#e6 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/af8a878f-7bc2-484c-83cc-844b4912602e/72nd-FIFA-Congress-and-FIFA-World-Cup-Qatar-2022-Final-Draw-Previews?io=transform:fill,aspectratio:10x16&quality=100);
+    background-size: cover;
+    transition: .3s;
+}
+#e6:hover {
+    transform: scale(1.1);
+}
+#e7 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/ede226e4-43ff-4a4d-b476-47b31fbde53e/FIFA-Arab-Cup-Qatar-2021-December-16?io=transform:fill,aspectratio:10x16&quality=100);
+    background-size: cover;
+    transition: .3s;
+}
+#e7:hover {
+    transform: scale(1.1);
+}
+#e8 {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-image: url(https://digitalhub.fifa.com/transform/367a1841-59d2-414d-b141-31730ccfbe8e/Mauritania-v-United-Arab-Emirates-FIFA-Arab-Cup-Qatar-2021?io=transform:fill,aspectratio:10x16&quality=75);
+    background-size: cover;
+    transition: .3s;
+}
+#e8:hover {
+    transform: scale(1.1);
+}
+#be1 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+}
+#be2 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+}
+#be3 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+}
+#be4 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+}
+#be5 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    margin-top: 20px;
+}
+#be6 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#be7 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#be8 {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#info2 {
+    width: 100%;
+    height: auto;
+    background-color: #fff6ed;
+}
+#ie1 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt1 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+}
+#tit1 {
+    font-size: xx-large;
+}
+#img1 {
+    background-image: url(https://www.qatar2022.qa/book/media/bvubliur/al_bayt_stadium.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 100px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#ie2 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt2 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+    margin-left: 150px;
+}
+#tit2 {
+    font-size: xx-large;
+}
+#img2 {
+    background-image: url(https://www.qatar2022.qa/book/media/tqqjpgav/al_janoub_stadium.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 50px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#ie3 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt3 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+}
+#tit3 {
+    font-size: xx-large;
+}
+#img3 {
+    background-image: url(https://www.qatar2022.qa/book/media/dornt4rg/ahmad_bin_ali_stadium.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 100px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#ie4 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt4 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+    margin-left: 150px;
+}
+#tit4 {
+    font-size: xx-large;
+}
+#img4 {
+    background-image: url(https://www.qatar2022.qa/book/media/bt2ebwn0/al_thumama_stadium.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 50px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#ie5 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt5 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+}
+#tit5 {
+    font-size: xx-large;
+}
+#img5 {
+    background-image: url(https://www.qatar2022.qa/book/media/ma5lbv1x/education_city_stadium.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 100px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#ie6 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt6 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+    margin-left: 150px;
+}
+#tit6 {
+    font-size: xx-large;
+}
+#img6 {
+    background-image: url(https://www.qatar2022.qa/book/media/ck5poako/khalifa_stadium.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 50px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#ie7 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt7 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+}
+#tit7 {
+    font-size: x-large;
+}
+#img7 {
+    background-image: url(https://www.qatar2022.qa/book/media/pi1ba5fp/lusail_stadium.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 100px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#ie8 {
+    padding: 50px;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+#txt8 {
+    width: 800px;
+    height: auto;
+    font-size: larger;
+    margin-left: 150px;
+}
+#tit8 {
+    font-size: xx-large;
+}
+#img8 {
+    background-image: url(https://www.qatar2022.qa/book/media/mqxh2swn/stadium_974.jpg);
+    width: 444px;
+    height: 296px;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 50px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+#hr {
+    color: black;
+}
+#te1 {
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    background: linear-gradient(360deg, black, rgba(0, 0, 0, 0.76), rgba(0,0,0,0));
+    position: absolute;
+    margin-top: -100px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#ne1 {
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+    margin-top: 20px;
+}
