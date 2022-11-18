@@ -19,6 +19,7 @@ body {
 }
 #img {
     width: 800px;
+    border-radius: 20px;
 }
 #info1 {
     width: 80%;

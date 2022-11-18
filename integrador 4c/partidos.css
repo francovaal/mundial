@@ -57,6 +57,7 @@ body {
     border-bottom-right-radius: 20px;
     border-top-right-radius: 20px;
     background-color: #131313;
+    background: linear-gradient(180deg,#131313,#555555);
     text-align: center;
 }
 #vs {
